@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a sophomore studying Computer Science Engineering at VSSUT, Burla.<br>I am currently focused on Web Development and I am eager to contribute more in Open Source Projects.<br>I am also an Graphic Designer, contributing through tech stack such as Figma and Canva.<br>
+I'm Priyambada Acharya , a sophomore studying Computer Science Engineering at VSSUT, Burla.<br>
+I am Passionate about turning raw data into actionable insights, I have developed strong skills in Excel, MySQL, and Python, with a focus on data analysis and visualization. Currently expanding my expertise in Tableau and Power BI, I am eager to explore more tools and techniques in the data field. My goal is to continuously learn and grow to make meaningful contributions as a data analyst.<br>
 
 
 ## 🌐 Socials:
