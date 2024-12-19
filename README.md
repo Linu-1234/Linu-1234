@@ -12,6 +12,7 @@ I am Passionate about turning raw data into actionable insights, I have develope
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
