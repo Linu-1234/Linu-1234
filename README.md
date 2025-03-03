@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Priyambada Acharya , a sophomore studying Computer Science Engineering at VSSUT, Burla.<br>
+I'm Priyambada Acharya , a pre-final year student studying Computer Science Engineering at VSSUT, Burla.<br>
 I am Passionate about turning raw data into actionable insights, I have developed strong skills in Excel, MySQL, and Python, with a focus on data analysis and visualization. Currently expanding my expertise in Tableau and Power BI, I am eager to explore more tools and techniques in the data field. My goal is to continuously learn and grow to make meaningful contributions as a data analyst.<br>
 
 
