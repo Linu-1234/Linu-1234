@@ -4,8 +4,8 @@ I’m **Priyambada Acharya**, a final-year Computer Science Engineering student 
 With growing expertise in **Power BI** and **Tableau**, I design dynamic and interactive dashboards that support strategic decision-making. I actively explore advanced topics like **data automation**, **data storytelling**, and **business intelligence**, aiming to continuously evolve as a well-rounded data professional.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyambada-acharya-0b8a38269)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=plastic&logo=firefox&logoColor=white)](https://linu-1234.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyambada-acharya-0b8a38269)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 # 💻 Tech Stack:
 
