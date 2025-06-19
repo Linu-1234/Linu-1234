@@ -5,7 +5,7 @@ With growing expertise in **Power BI** and **Tableau**, I design dynamic and int
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyambada-acharya-0b8a38269)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=white)](https://linu-1234.github.io/Portfolio/)
 
 # 💻 Tech Stack:
 
